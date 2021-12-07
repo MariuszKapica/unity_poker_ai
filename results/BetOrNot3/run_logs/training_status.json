@@ -1,0 +1,38 @@
+{
+    "MoveToBet": {
+        "checkpoints": [
+            {
+                "steps": 499965,
+                "file_path": "results\\BetOrNot3\\MoveToBet\\MoveToBet-499965.onnx",
+                "reward": -93.05555555555556,
+                "creation_time": 1637596234.568847,
+                "auxillary_file_paths": [
+                    "results\\BetOrNot3\\MoveToBet\\MoveToBet-499965.pt"
+                ]
+            },
+            {
+                "steps": 500029,
+                "file_path": "results\\BetOrNot3\\MoveToBet\\MoveToBet-500029.onnx",
+                "reward": -93.05555555555556,
+                "creation_time": 1637596234.6848438,
+                "auxillary_file_paths": [
+                    "results\\BetOrNot3\\MoveToBet\\MoveToBet-500029.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500029,
+            "file_path": "results\\BetOrNot3\\MoveToBet.onnx",
+            "reward": -93.05555555555556,
+            "creation_time": 1637596234.6848438,
+            "auxillary_file_paths": [
+                "results\\BetOrNot3\\MoveToBet\\MoveToBet-500029.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "MoveToBet": {
+        "checkpoints": [
+            {
+                "steps": 23081953,
+                "file_path": "results\\BetOrNot7\\MoveToBet\\MoveToBet-23081953.onnx",
+                "reward": null,
+                "creation_time": 1637749628.9858756,
+                "auxillary_file_paths": [
+                    "results\\BetOrNot7\\MoveToBet\\MoveToBet-23081953.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 23081953,
+            "file_path": "results\\BetOrNot7\\MoveToBet.onnx",
+            "reward": null,
+            "creation_time": 1637749628.9858756,
+            "auxillary_file_paths": [
+                "results\\BetOrNot7\\MoveToBet\\MoveToBet-23081953.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

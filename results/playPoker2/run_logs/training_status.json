@@ -1,0 +1,38 @@
+{
+    "MoveToBet": {
+        "checkpoints": [
+            {
+                "steps": 499974,
+                "file_path": "results\\playPoker2\\MoveToBet\\MoveToBet-499974.onnx",
+                "reward": -14.498442367601246,
+                "creation_time": 1636109012.4051402,
+                "auxillary_file_paths": [
+                    "results\\playPoker2\\MoveToBet\\MoveToBet-499974.pt"
+                ]
+            },
+            {
+                "steps": 500024,
+                "file_path": "results\\playPoker2\\MoveToBet\\MoveToBet-500024.onnx",
+                "reward": -14.477449455676517,
+                "creation_time": 1636109012.5321348,
+                "auxillary_file_paths": [
+                    "results\\playPoker2\\MoveToBet\\MoveToBet-500024.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500024,
+            "file_path": "results\\playPoker2\\MoveToBet.onnx",
+            "reward": -14.477449455676517,
+            "creation_time": 1636109012.5321348,
+            "auxillary_file_paths": [
+                "results\\playPoker2\\MoveToBet\\MoveToBet-500024.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
